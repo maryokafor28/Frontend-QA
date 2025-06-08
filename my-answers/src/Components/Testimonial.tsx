@@ -9,17 +9,17 @@ interface Testimonial {
 const testimomials: Testimonial[] = [
   {
     name: "Amadi Mary",
-    avatar: "avatar",
+    avatar: avatar,
     quote: "bringing the best",
   },
   {
     name: "Amadi fumnanya",
-    avatar: "avatar",
+    avatar: avatar,
     quote: "setting the pace",
   },
   {
     name: "Best Onyi",
-    avatar: "avatar",
+    avatar: avatar,
     quote: "future is bright",
   },
 ];
